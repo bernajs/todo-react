@@ -1,0 +1,4 @@
+.fw{width: 100%;}
+li{cursor: pointer}
+
+li span.float-right {position: absolute; right: 10px; font-size: bold;}
